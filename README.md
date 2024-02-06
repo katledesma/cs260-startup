@@ -1,4 +1,3 @@
-# startup
-startup is fun
+# cs260-startup
 
-This was added on github.
+Hi. This my startup project for this class.
