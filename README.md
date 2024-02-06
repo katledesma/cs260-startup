@@ -1,3 +1,3 @@
-# cs260-startup
+# startup
 
 Hi. This my startup project for this class.
